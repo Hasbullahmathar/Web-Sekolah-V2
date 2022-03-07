@@ -1,0 +1,41 @@
+.navbar-brand {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 32px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 30px
+  ;
+}
+
+.nav-link:hover{
+  border-bottom: 3px solid #ffffff;
+}
+
+.tombol{
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+.jumbotron{
+  background-image: url("https://sma1yogya.sch.id/assets/images/bg_home1.JPG");
+  background-size: cover;
+  height: 640px;
+  margin-top: -70px;
+  text-align: center;
+}
+
+.navbar-brand, .nav-link{
+  color: white !important;
+
+}
+
+.jumbotron .display-4{
+  color: white;
+  margin-top: 200px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+}
+
+
